@@ -55,7 +55,7 @@ export default function Greeting() {
               <DisplayLottie animationData={landingPerson} />
             ) : ( */}
               <img
-              style={{height:550}}
+              // style={{height:550}}
                 alt="man sitting on table"
                 src={require("../../assets/images/mahima.webp")}
               ></img>
