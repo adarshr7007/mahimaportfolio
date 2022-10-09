@@ -19,7 +19,7 @@ export default function Greeting() {
     <Fade bottom duration={1000} distance="40px">
       <div className="greet-main" id="greeting">
         <div className="greeting-main">
-          <div className="greeting-text-div vertical-center">
+          <div className="greeting-text-div ">
             <div>
               <h1
                 className={isDark ? "dark-mode greeting-text" : "greeting-text"}
