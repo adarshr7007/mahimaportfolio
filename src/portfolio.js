@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Dr Mahima Rastogi",
+  username: "Dr Mahima",
   title: "I'm Dr Mahima rastogi",
   subTitle: 
     "I am an Homeopathic Dr i have done BHMS from uttrakhand, india"
