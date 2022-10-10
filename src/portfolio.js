@@ -21,9 +21,9 @@ const illustration = {
 
 const greeting = {
   username: "Dr Mahima",
-  title: "I'm Dr Mahima rastogi",
+  title: "I'm Dr Mahima Rastogi",
   subTitle: 
-    "I am an Homeopathic Dr i have done BHMS from uttrakhand, india"
+    "an Homeopathic Dr I have done BHMS from Uttrakhand, India"
  ,
   // resumeLink:
   //   "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "About",
-  subTitle: "full time Homeopathy doctor",
+  subTitle: "Full Time Homeopathy Doctor",
   skills: [
    "A basic belief behind homeopathy is “like cures like.” In other words, something that brings on symptoms in a healthy person can -- in a very small dose -- treat an illness with similar symptoms. This is meant to trigger the body’s natural defenses.",
 "What Conditions Does Homeopathy Treat?",
@@ -134,7 +134,7 @@ const educationInfo = {
       // logo: require("./assets/images/harvardLogo.png"),
       subHeader: "BHMS",
       // duration: "September 2017 - April 2019",
-      desc: "i have done BHMS from UAU ",
+      desc: "I Have Done BHMS From UAU ",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
